@@ -1,1 +1,31 @@
-
+{
+  "estoque_sapatos": {
+    "Nike": {
+      "nome_completo": "Nike - Air Max",
+      "quantidade_total": "5",
+      "tamanhos_disponiveis": {
+        "36": "2",
+        "38": "3",
+        "40": "0"
+      }
+    },
+    "AllStar": {
+      "nome_completo": "AllStar - Plataforma",
+      "quantidade_total": "15",
+      "tamanhos_disponiveis": {
+        "36": "5",
+        "38": "5",
+        "40": "5"
+      }
+    },
+    "Puma": {
+      "nome_completo": "Puma - Suede",
+      "quantidade_total": "0",
+      "tamanhos_disponiveis": {
+        "36": "0",
+        "38": "0",
+        "40": "0"
+      }
+    }
+  }
+}
